@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;800&family=VT323&display=swap');
+
+body {
+  margin: 0 ;
+  font-family: "Poppins";
+  background: #eeeee7;
+  font-size: 1.2em;
+}
+
+.header {
+  background: #eeeee7;
+  text-align: center;
+  margin: 0;
+  display: inline-block;
+  width: 100%;
+ 
+}
+.zaglavlje {
+  background:  #2a5582;
+  font-size: 1.5em;
+  width: 100%;
+  text-align: right;
+  
+}
+.lista {
+  color: whitesmoke;
+  padding: 15px;
+}
+
+
+
+.panel__radovi {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 450px;
+}
+.radovi {
+  height: 400px;
+  width: 700px;
+  border: 16px solid #fff;
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.05);
+
+}
+
+.panel__photos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 450px;
+
+}
+
+.najam {
+  height: 400px;
+  width: 700px;
+  border: 16px solid #fff;
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.05);
+  text-align: right;
+
+}
+h1, h2 {
+  text-align: center;
+  color: #2a5582;
+}
+footer {
+  background:  #2a5582; 
+  font-size: 1.5em;
+  text-align: center;
+  color: whitesmoke;
+  border: none;
+  padding: none;
+  margin: 0;
+  
+  }
+  
+  p {
+    text-align:center;
+    margin: 0;
+ }
+
+
+  
+  

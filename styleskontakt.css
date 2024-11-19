@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;800&family=VT323&display=swap');
+body {
+    margin: 0;
+    font-family: "Poppins";
+    background: #eeeee7;
+    color: #2a5582;
+  
+       }
+  
+  .header {
+    background: #eeeee7;
+    margin: 0 auto;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+   
+  }
+  
+  .zaglavlje {
+    background: #2a5582;
+    font-size: 1.5em;
+    width: 100%;
+    text-align: right;
+    
+  }
+  .lista {
+    color: whitesmoke;
+    padding: 15px;
+    }
+    
+  footer {
+    background:  #2a5582; 
+    font-size: 1.5em;
+    text-align: center;
+    color: whitesmoke;
+    border: none;
+    padding: none;
+     margin: none;
+  
+
+    }
+    .dugme {
+      background: #2a5582;
+      font-size: 1em;
+      font-weight: bold;
+      margin-left: 150px;
+    }
+    .telo {
+display: block;
+margin-left: 100px;
+
+    }
+.poruka {
+  color: #2a5582;
+}
+.fo {
+  margin: 0;
+}
+  
